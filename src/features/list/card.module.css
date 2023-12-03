@@ -1,0 +1,16 @@
+.container{
+  width: 100%;
+  background-color: white;
+  padding: 10px
+}
+
+.container div{
+  height: 20%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container div span{
+  font-size: 20px;
+}

@@ -1,0 +1,39 @@
+.container{
+  width: 500px;
+  border-radius: 10px;
+  background-color: lightgray;
+  padding: 10px;
+  height: min-content;
+}
+
+.listHeader{
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.listHeader span{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.cardList{
+  display: flex;
+  flex-direction: column;
+  gap:10px;
+}
+
+.inputContainer{
+  background-color: white;
+  width: 100%;
+  height: 70%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 10px;
+}
+

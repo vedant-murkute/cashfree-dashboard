@@ -1,0 +1,30 @@
+.App{
+  max-width: 90vw;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+
+input{
+  width: 100%;
+  border: 2px solid;
+  padding: 6px 10px;
+}
+
+.buttonContainer{
+  background-color: black;
+  color: lightgray;
+  padding: 6px 30px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.iconButtonContainer{
+  appearance: none;
+  text-decoration: none;
+  background-color: transparent;
+  border: none;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  cursor: pointer;
+}
