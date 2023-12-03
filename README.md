@@ -4,7 +4,7 @@ A dashboard which helps keep track of cards categorized into list. The app is de
 
 App Hosted on : https://vedant-murkute.github.io/cashfree-dashboard/
 
-![dashboard_sample](https://github.com/vedant-murkute/cashfree-dashboard/blob/main/src/assets/cashfree_dashboard_sample.png)
+![dashboard_sample](https://github.com/vedant-murkute/cashfree-dashboard/blob/main/src/assets/cashfree_dashboard_sample.png?raw=true)
 
 ## Scripts
 
